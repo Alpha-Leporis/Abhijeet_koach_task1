@@ -18,9 +18,3 @@ You will also see any lint errors in the console.
 4. MongoDB
 
 
-## Compiles and minifies for production
-```npm build```
-
-## Run your tests
-```npm test```
-
